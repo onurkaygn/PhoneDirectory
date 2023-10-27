@@ -1,0 +1,14 @@
+C:\Users\onura\source\repos\telefonRehberi\telefonRehberi\bin\Debug\net7.0\telefonRehberi.exe
+C:\Users\onura\source\repos\telefonRehberi\telefonRehberi\bin\Debug\net7.0\telefonRehberi.deps.json
+C:\Users\onura\source\repos\telefonRehberi\telefonRehberi\bin\Debug\net7.0\telefonRehberi.runtimeconfig.json
+C:\Users\onura\source\repos\telefonRehberi\telefonRehberi\bin\Debug\net7.0\telefonRehberi.dll
+C:\Users\onura\source\repos\telefonRehberi\telefonRehberi\bin\Debug\net7.0\telefonRehberi.pdb
+C:\Users\onura\source\repos\telefonRehberi\telefonRehberi\obj\Debug\net7.0\telefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onura\source\repos\telefonRehberi\telefonRehberi\obj\Debug\net7.0\telefonRehberi.AssemblyInfoInputs.cache
+C:\Users\onura\source\repos\telefonRehberi\telefonRehberi\obj\Debug\net7.0\telefonRehberi.AssemblyInfo.cs
+C:\Users\onura\source\repos\telefonRehberi\telefonRehberi\obj\Debug\net7.0\telefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\onura\source\repos\telefonRehberi\telefonRehberi\obj\Debug\net7.0\telefonRehberi.dll
+C:\Users\onura\source\repos\telefonRehberi\telefonRehberi\obj\Debug\net7.0\refint\telefonRehberi.dll
+C:\Users\onura\source\repos\telefonRehberi\telefonRehberi\obj\Debug\net7.0\telefonRehberi.pdb
+C:\Users\onura\source\repos\telefonRehberi\telefonRehberi\obj\Debug\net7.0\telefonRehberi.genruntimeconfig.cache
+C:\Users\onura\source\repos\telefonRehberi\telefonRehberi\obj\Debug\net7.0\ref\telefonRehberi.dll
